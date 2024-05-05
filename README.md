@@ -12,12 +12,12 @@ This project demonstrates a comprehensive setup for a Node.js application utiliz
 
 1.	Clone the repository to your local machine.
 2.	Navigate to the project directory.
-3.	Install the project dependencies by running npm install.
-4.	Set up your .env file with the necessary environment variables, including MongoDB connection string and admin credentials.
+3.	Install the project dependencies by running **npm install**.
+4.	Set up your **.env** file with the necessary environment variables, including MongoDB connection string and admin credentials.
 5.	
 **Running the Application**
 
-1.	Start the application by running npm start or npm run dev for development mode with hot reloading.
+1.	Start the application by running **npm start** or **npm run dev** for development mode with hot reloading.
 2.	The application will start on the port specified in your environment variables or default to 8000 if not specified.
 **Features**
 •	User Registration: Allows users to register with a username, email, and password.
